@@ -2,7 +2,7 @@
 
 > Ever wanted to retweet your favourite tweets? Chosen at random? Well now you can.
 
-Retweet Dem Faves uses [tweepy] and exposes a simple API.
+Retweet Dem Faves™ uses [Tweepy][tweepy] and exposes a simple API.
 
 ## Usage
 
